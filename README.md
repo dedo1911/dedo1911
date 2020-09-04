@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm dedo1911! 👋
+
+### Development Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dedo1911&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **dedo1911/dedo1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
