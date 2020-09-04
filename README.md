@@ -7,6 +7,36 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+🌆 Daytime    192 commits    █████████░░░░░░░░░░░░░░░░   35.69% 
+🌃 Evening    146 commits    ██████░░░░░░░░░░░░░░░░░░░   27.14% 
+🌙 Night      142 commits    ██████░░░░░░░░░░░░░░░░░░░   26.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <!--
