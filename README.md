@@ -15,9 +15,9 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830294%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,14 +36,14 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               12 hrs              ███████████████░░░░░░░░░░   61.05% 
-Go                       6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   31.35% 
-JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+JavaScript               6 hrs 50 mins       █████████████░░░░░░░░░░░░   51.73% 
+Go                       5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   39.28% 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
