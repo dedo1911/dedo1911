@@ -17,15 +17,15 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26717%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26716%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
 🌆 Daytime    267 commits    ██████████░░░░░░░░░░░░░░░   40.95% 
-🌃 Evening    155 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
-🌙 Night      157 commits    ██████░░░░░░░░░░░░░░░░░░░   24.08%
+🌃 Evening    156 commits    ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+🌙 Night      156 commits    ██████░░░░░░░░░░░░░░░░░░░   23.93%
 
 ```
 
