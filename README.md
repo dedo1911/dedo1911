@@ -15,17 +15,17 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26716%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-🌆 Daytime    265 commits    ██████████░░░░░░░░░░░░░░░   40.4% 
-🌃 Evening    162 commits    ██████░░░░░░░░░░░░░░░░░░░   24.7% 
-🌙 Night      156 commits    ██████░░░░░░░░░░░░░░░░░░░   23.78%
+🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+🌆 Daytime    273 commits    ██████████░░░░░░░░░░░░░░░   40.44% 
+🌃 Evening    170 commits    ██████░░░░░░░░░░░░░░░░░░░   25.19% 
+🌙 Night      159 commits    ██████░░░░░░░░░░░░░░░░░░░   23.56%
 
 ```
 
