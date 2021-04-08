@@ -36,13 +36,10 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       10 hrs 13 mins      █████████████████████░░░░   84.86% 
-JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 hrs 2 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
