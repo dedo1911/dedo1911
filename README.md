@@ -15,7 +15,7 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64950%20lines%20of%20code-blue)
 
@@ -36,21 +36,21 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.55% 
-C#                       1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
-JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Docker                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
+Go                       2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   35.45% 
+Docker                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   22.44% 
+C#                       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       ███████████████████░░░░░░   78.06% 
-Visual Studio            1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
-Sublime Text             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+VS Code                  6 hrs 55 mins       █████████████████████░░░░   85.11% 
+Visual Studio            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ```
 
 
- Last Updated on 16/07/2021
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
 
 <!--
