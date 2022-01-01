@@ -36,7 +36,8 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-XML                      16 mins             █████████████████████████   100.0%
+XML                      16 mins             █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 Sublime Text             16 mins             █████████████████████████   100.0%
@@ -44,7 +45,7 @@ Sublime Text             16 mins             ███████████�
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 <!--
