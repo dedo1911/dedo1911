@@ -15,7 +15,7 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
 
@@ -36,20 +36,20 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-HTML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   30.73% 
-Docker                   16 mins             ███████░░░░░░░░░░░░░░░░░░   29.27% 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44% 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Go                       52 mins             ██████████░░░░░░░░░░░░░░░   43.36% 
+YAML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Docker                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████░░░░░░░░   70.02% 
-Sublime Text             17 mins             ███████░░░░░░░░░░░░░░░░░░   29.98%
+VS Code                  1 hr 34 mins        ███████████████████░░░░░░   77.41% 
+Sublime Text             27 mins             █████░░░░░░░░░░░░░░░░░░░░   22.59%
 
 ```
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
 <!--
