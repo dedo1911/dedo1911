@@ -17,7 +17,7 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -36,20 +36,20 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       10 hrs 55 mins      ██████████████░░░░░░░░░░░   55.94% 
-JavaScript               7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.89% 
-JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-PHP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+JavaScript               8 hrs 2 mins        █████████████░░░░░░░░░░░░   54.83% 
+Go                       4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.91% 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
+PHP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 🔥 Editors: 
-VS Code                  19 hrs 8 mins       ████████████████████████░   97.99% 
-Sublime Text             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+VS Code                  14 hrs 16 mins      ████████████████████████░   97.32% 
+Sublime Text             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
 
 ```
 
 
- Last Updated on 18/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
 <!--
