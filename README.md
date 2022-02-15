@@ -15,7 +15,7 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
@@ -48,7 +48,7 @@ VS Code                  7 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 14/02/2022 00:21:13 UTC
+ Last Updated on 15/02/2022 00:20:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
