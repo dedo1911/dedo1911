@@ -15,7 +15,7 @@ Software developer, tech entusiast, open source supporter, sushi addicted.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ Sublime Text             0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/03/2022 00:27:48 UTC
+ Last Updated on 21/03/2022 00:27:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
