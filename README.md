@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
 
@@ -50,7 +50,7 @@ VS Code                  4 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 13/06/2022 00:38:42 UTC
+ Last Updated on 14/06/2022 00:39:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
