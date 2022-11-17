@@ -15,9 +15,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143%20Thousand%20lines%20of%20code-blue)
 
@@ -38,20 +38,20 @@
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       4 hrs 59 mins       ███████████████░░░░░░░░░░   63.33% 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
-Docker                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
-Makefile                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+Go                       5 hrs 38 mins       █████████████████░░░░░░░░   67.64% 
+JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
+Makefile                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       ████████████████████░░░░░   83.29% 
-Sublime Text             1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71%
+VS Code                  7 hrs 12 mins       █████████████████████░░░░   86.35% 
+Sublime Text             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.65%
 
 ```
 
 
- Last Updated on 16/11/2022 00:36:07 UTC
+ Last Updated on 17/11/2022 00:35:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
