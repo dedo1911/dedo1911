@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,16 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ██████████████░░░░░░░░░░░   55.12 % 
-YAML                     46 mins             ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Go                       14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JavaScript               1 hr 15 mins        ██████████████████░░░░░░░   71.59 % 
+YAML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Go                       14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2023 00:34:18 UTC
+ Last Updated on 07/06/2023 00:34:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
