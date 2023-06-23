@@ -37,15 +37,14 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       2 mins              ███████████████████░░░░░░   74.08 % 
-Batchfile                0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/06/2023 00:34:19 UTC
+ Last Updated on 23/06/2023 00:36:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
