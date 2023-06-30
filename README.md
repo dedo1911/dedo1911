@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C306%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C306%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,14 +37,18 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████████   100.00 % 
+TypeScript               24 mins             ████████░░░░░░░░░░░░░░░░░   31.15 % 
+JavaScript               24 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
+JSON                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+TSConfig                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2023 00:36:14 UTC
+ Last Updated on 30/06/2023 00:36:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
