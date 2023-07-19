@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌆 Daytime                3045 commits        ███████████░░░░░░░░░░░░░░   44.36 % 
-🌃 Evening                1658 commits        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-🌙 Night                  1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌞 Morning                1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+🌆 Daytime                3048 commits        ███████████░░░░░░░░░░░░░░   44.32 % 
+🌃 Evening                1658 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌙 Night                  1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 
 
@@ -37,14 +37,14 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2023 00:57:18 UTC
+ Last Updated on 19/07/2023 00:53:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
