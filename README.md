@@ -37,14 +37,14 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/09/2023 00:26:17 UTC
+ Last Updated on 11/09/2023 00:28:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
