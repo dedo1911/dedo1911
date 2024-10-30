@@ -1,7 +1,7 @@
 <div align="center">
   
 # Dario Emerson (dedo1911)
-👨🏼‍💻 Software developer, 🔧 tech entusiast, 🙌 open source supporter, 🍣 sushi addicted .
+👨🏼‍💻 Software developer, 🔧 tech enthusiast, 🙌 open source supporter, 🍣 sushi addicted .
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](http://linkedin.com/in/dedo1911)
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/dedo1911)
