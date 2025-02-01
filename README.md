@@ -37,14 +37,14 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/01/2025 00:07:08 UTC
+ Last Updated on 01/02/2025 00:07:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
