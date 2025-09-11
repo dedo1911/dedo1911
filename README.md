@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,14 +37,15 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       26 mins             █████████████████████████   100.00 % 
+Go                       41 mins             ████████████████████████░   95.72 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/09/2025 00:11:02 UTC
+ Last Updated on 11/09/2025 00:10:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
