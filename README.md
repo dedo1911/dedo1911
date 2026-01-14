@@ -11,8 +11,8 @@
 
 # Development Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedo1911&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dedo1911&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C988%20hrs%2016%20mins-blue?style=flat)
