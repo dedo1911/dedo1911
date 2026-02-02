@@ -15,36 +15,12 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C998%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.51%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2083 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-🌆 Daytime                3673 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌃 Evening                2396 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌙 Night                  1632 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Go                       0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/02/2026 00:10:03 UTC
+ Last Updated on 02/02/2026 00:09:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
