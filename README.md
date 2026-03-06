@@ -19,15 +19,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1936 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌆 Daytime                3373 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                2137 commits        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌙 Night                  1520 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌞 Morning                2155 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌆 Daytime                3874 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌃 Evening                2587 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌙 Night                  1748 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
 
@@ -37,19 +37,19 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     1 hr 11 mins        ███████████████░░░░░░░░░░   60.65 % 
-Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    17 mins             █████████████░░░░░░░░░░░░   53.72 % 
+YAML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+INI                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        ████████████████████████░   95.32 % 
-Sublime Text             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+VS Code                  27 mins             █████████████████████░░░░   83.28 % 
+Sublime Text             5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 ```
 
 
- Last Updated on 05/03/2026 00:11:49 UTC
+ Last Updated on 06/03/2026 00:17:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
