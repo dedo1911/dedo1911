@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C041%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C042%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2103 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-🌆 Daytime                3581 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌃 Evening                2190 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌙 Night                  1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+🌞 Morning                2578 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                4671 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌃 Evening                3260 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌙 Night                  2101 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 ```
 
 
@@ -37,14 +37,18 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+YAML                     46 mins             ██████████░░░░░░░░░░░░░░░   38.81 % 
+Python                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+SQL                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Go                       14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 00:12:38 UTC
+ Last Updated on 13/03/2026 00:11:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
