@@ -37,15 +37,14 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     10 mins             █████████████████████████   98.52 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/03/2026 00:10:36 UTC
+ Last Updated on 23/03/2026 00:12:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
