@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C110%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C112%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1986 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-🌆 Daytime                3780 commits        █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌃 Evening                2528 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-🌙 Night                  1868 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+🌞 Morning                1997 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌆 Daytime                3793 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌃 Evening                2529 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+🌙 Night                  1874 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
 
 
@@ -37,20 +37,20 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       12 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Svelte                   9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Markdown                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-SQL                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Other                    1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Go                       9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Svelte                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Markdown                 6 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+SQL                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 7 mins       ████████████████████░░░░░   79.89 % 
-Unknown Editor           7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Sublime Text             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  22 hrs 27 mins      ██████████████████░░░░░░░   72.94 % 
+Unknown Editor           8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Sublime Text             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 
- Last Updated on 25/04/2026 00:16:19 UTC
+ Last Updated on 26/04/2026 00:15:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
