@@ -15,19 +15,19 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2407 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-🌆 Daytime                4767 commits        █████████░░░░░░░░░░░░░░░░   35.12 % 
-🌃 Evening                3715 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  2684 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌞 Morning                2078 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+🌆 Daytime                4003 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌃 Evening                2942 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌙 Night                  2280 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 ```
 
 
@@ -37,19 +37,19 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       16 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.03 % 
-Markdown                 12 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-Svelte                   5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-YAML                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Other                    2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Go                       18 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Markdown                 14 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Svelte                   4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Java                     3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+YAML                     3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 51 mins      ██████████████████████░░░   89.23 % 
-Claude Code              5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+VS Code                  49 hrs 57 mins      ███████████████████████░░   91.34 % 
+Claude Code              4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 ```
 
 
- Last Updated on 25/05/2026 00:25:55 UTC
+ Last Updated on 26/05/2026 00:26:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
