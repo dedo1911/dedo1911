@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2354 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌆 Daytime                4480 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌃 Evening                3365 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-🌙 Night                  2663 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+🌞 Morning                2914 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                5796 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
+🌃 Evening                4705 commits        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌙 Night                  3408 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
 ```
 
 
@@ -37,19 +37,19 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Rust                     32 hrs 28 mins      ███████████████░░░░░░░░░░   60.27 % 
-Markdown                 8 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Bash                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Svelte                   2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Go                       1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Rust                     29 hrs 42 mins      ████████████████░░░░░░░░░   65.81 % 
+Markdown                 5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Bash                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Svelte                   2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+YAML                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 7 mins       ████████████████░░░░░░░░░   65.19 % 
-VS Code                  18 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
+Claude Code              34 hrs 9 mins       ███████████████████░░░░░░   75.68 % 
+VS Code                  10 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 ```
 
 
- Last Updated on 13/06/2026 00:33:59 UTC
+ Last Updated on 14/06/2026 00:29:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
