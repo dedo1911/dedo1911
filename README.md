@@ -19,37 +19,10 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.77%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                6565 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                5277 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌙 Night                  3958 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-JavaScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Go                       1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Svelte                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 45 mins       █████████████████████░░░░   82.83 % 
-VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-```
-
-
- Last Updated on 24/07/2026 01:27:48 UTC
+ Last Updated on 25/07/2026 01:27:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
