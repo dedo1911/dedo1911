@@ -17,19 +17,21 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2913 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-🌆 Daytime                5569 commits        █████████░░░░░░░░░░░░░░░░   34.80 % 
-🌃 Evening                4181 commits        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-🌙 Night                  3340 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+🌞 Morning                3131 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌆 Daytime                6043 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                4739 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌙 Night                  3636 commits        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 ```
 
 
@@ -50,8 +52,31 @@ Claude Code              2 hrs 23 mins       ███████████�
 VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 01:37:18 UTC
+```text
+⏱ AI Coding Time: 2 hrs 26 mins (85.69%)
+
+✍️ 311 lines written by AI, 2 lines written by hand (99.36% AI-written)
+
+🔤 30,485,152 Input Tokens, 172,845 Output Tokens
+
+💵 $153.69 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 30 AI Prompts
+
+Opus                     428 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.36% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.61% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 01:23:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
