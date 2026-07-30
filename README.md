@@ -17,6 +17,10 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.79%20million%20lines%20of%20code-blue?style=flat)
@@ -24,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3686 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-🌆 Daytime                7262 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌃 Evening                5880 commits        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌙 Night                  4275 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌞 Morning                4406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌆 Daytime                8946 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌃 Evening                7566 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+🌙 Night                  5223 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 ```
 
 
@@ -37,42 +41,41 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.73 % 
-Svelte                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-JavaScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+YAML                     37 mins             ██████████░░░░░░░░░░░░░░░   38.88 % 
+Other                    23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 43 mins       ██████████████████████░░░   87.50 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Claude Code              1 hr 34 mins        █████████████████████████   98.12 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (89.44%)
+⏱ AI Coding Time: 1 hr 35 mins (98.82%)
 
-✍️ 672 lines written by AI, 2 lines written by hand (99.7% AI-written)
+✍️ 365 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 29,261,808 Input Tokens, 189,027 Output Tokens
+🔤 9,461,943 Input Tokens, 97,264 Output Tokens
 
-💵 $147.81 Estimated AI Cost This Week
+💵 $48.48 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 44 AI Prompts
+🧠 5 AI Sessions, 21 AI Prompts
 
-Opus                     740 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     366 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 300 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 01:28:04 UTC
+ Last Updated on 30/07/2026 01:19:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
