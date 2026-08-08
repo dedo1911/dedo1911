@@ -17,12 +17,65 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C391%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.95%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 07/08/2026 02:05:14 UTC
+```text
+🌞 Morning                3662 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌆 Daytime                7096 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
+🌃 Evening                5627 commits        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌙 Night                  4198 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Markdown                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.08 % 
+Go                       2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.02 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Svelte                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 11 mins       ████████████████████████░   97.96 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 17 mins (99.54%)
+
+✍️ 9,571 lines written by AI, 7 lines written by hand (99.93% AI-written)
+
+🔤 175,415,120 Input Tokens, 696,435 Output Tokens
+
+💵 $887.71 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 44 AI Prompts
+
+Opus                     9,649 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 599 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 00:47:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
