@@ -23,15 +23,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌆 Daytime                6230 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                4815 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-🌙 Night                  3713 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌞 Morning                3241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌆 Daytime                6241 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌃 Evening                4823 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌙 Night                  3713 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 ```
 
 
@@ -41,42 +41,20 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.18 % 
-YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 29 mins       ██████████████████████░░░   86.58 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (94.9%)
-
-✍️ 1,906 lines written by AI, 142 lines written by hand (93.07% AI-written)
-
-🔤 1,663,211 Input Tokens, 231,157 Output Tokens
-
-💵 $59.39 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 36 AI Prompts
-
-Opus                     1,922 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.07% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.88% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/08/2026 00:36:11 UTC
+ Last Updated on 20/08/2026 00:36:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
