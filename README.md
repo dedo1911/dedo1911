@@ -17,9 +17,9 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C396%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -28,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4048 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌆 Daytime                8139 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌃 Evening                6561 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌙 Night                  4736 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌞 Morning                3237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌆 Daytime                6264 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌃 Evening                4850 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+🌙 Night                  3713 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 ```
 
 
@@ -41,20 +41,38 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   12 mins             █████████████░░░░░░░░░░░░   50.06 % 
+YAML                     12 mins             ████████████░░░░░░░░░░░░░   49.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              23 mins             ████████████████████████░   95.06 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 mins (96.63%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 206,518 Input Tokens, 24,584 Output Tokens
+
+💵 $3.44 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 53 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 00:40:34 UTC
+ Last Updated on 25/08/2026 00:37:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
