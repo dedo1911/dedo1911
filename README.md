@@ -28,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3796 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-🌆 Daytime                6920 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌃 Evening                5251 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌙 Night                  4013 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+🌞 Morning                3796 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌆 Daytime                6926 commits        █████████░░░░░░░░░░░░░░░░   34.65 % 
+🌃 Evening                5253 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+🌙 Night                  4013 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 ```
 
 
@@ -41,40 +41,40 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
-Go                       2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.89 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Go                       2 hrs 47 mins       █████████████░░░░░░░░░░░░   50.66 % 
+Markdown                 1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 34 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 34 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 30 mins (100.0%)
 
-✍️ 2,062 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,984 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,779,472 Input Tokens, 812,795 Output Tokens
+🔤 2,982,572 Input Tokens, 623,784 Output Tokens
 
-💵 $172.67 Estimated AI Cost This Week
+💵 $135.02 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 61 AI Prompts
+🧠 11 AI Sessions, 47 AI Prompts
 
-Opus                     2,114 lines         █████████████████████████   100.00 % 
+Opus                     2,036 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 466 characters per prompt
+📝 Concise Prompter — average 103 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 01:59:39 UTC
+ Last Updated on 20/09/2026 02:00:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
