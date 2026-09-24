@@ -28,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4127 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                7669 commits        █████████░░░░░░░░░░░░░░░░   34.76 % 
-🌃 Evening                5892 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌙 Night                  4375 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌞 Morning                4127 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+🌆 Daytime                7679 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌃 Evening                5895 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌙 Night                  4387 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 ```
 
 
@@ -41,41 +41,21 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 33 mins             ███████████░░░░░░░░░░░░░░   43.58 % 
-JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Go                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Docker                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Go                       7 mins              █████████████░░░░░░░░░░░░   53.10 % 
+Docker                   6 mins              ████████████░░░░░░░░░░░░░   46.90 % 
 
 🔥 Editors: 
-Claude Code              1 hr 3 mins         █████████████████████░░░░   82.08 % 
-VS Code                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (82.08%)
-
-✍️ 1,865 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 955,488 Input Tokens, 180,044 Output Tokens
-
-💵 $37.07 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 10 AI Prompts
-
-Opus                     1,917 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/09/2026 02:10:36 UTC
+ Last Updated on 24/09/2026 01:58:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
