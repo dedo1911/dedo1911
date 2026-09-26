@@ -17,21 +17,21 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C400%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-353%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3791 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-🌆 Daytime                6934 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌃 Evening                5264 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌙 Night                  3987 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+🌞 Morning                5203 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+🌆 Daytime                10060 commits       █████████░░░░░░░░░░░░░░░░   35.23 % 
+🌃 Evening                7830 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌙 Night                  5466 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 ```
 
 
@@ -41,41 +41,42 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    4 hrs 28 mins       ███████████████░░░░░░░░░░   58.23 % 
-Go                       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-YAML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Other                    4 hrs 33 mins       ███████████████░░░░░░░░░░   58.70 % 
+Go                       2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 3 mins        ███████████████████████░░   91.70 % 
-VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Claude Code              6 hrs 48 mins       ██████████████████████░░░   87.63 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Sublime Text             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 25 mins (96.57%)
+⏱ AI Coding Time: 7 hrs 16 mins (93.78%)
 
-✍️ 1,898 lines written by AI, 2 lines written by hand (99.89% AI-written)
+✍️ 1,683 lines written by AI, 2 lines written by hand (99.88% AI-written)
 
-🔤 4,453,108 Input Tokens, 614,815 Output Tokens
+🔤 3,688,303 Input Tokens, 523,626 Output Tokens
 
-💵 $150.80 Estimated AI Cost This Week
+💵 $141.94 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 65 AI Prompts
+🧠 13 AI Sessions, 64 AI Prompts
 
-Opus                     1,898 lines         █████████████████████████   100.00 % 
+Opus                     1,684 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 711 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 706 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 02:16:31 UTC
+ Last Updated on 26/09/2026 02:20:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
