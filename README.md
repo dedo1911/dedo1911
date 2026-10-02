@@ -21,12 +21,62 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.09%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3628 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌆 Daytime                6660 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌃 Evening                5013 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+🌙 Night                  3693 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+```
 
 
- Last Updated on 01/10/2026 02:48:16 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.61 % 
+Go                       2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Svelte                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 31 mins       █████████████████████████   98.38 % 
+Sublime Text             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 40 mins (100.0%)
+
+✍️ 3,602 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,726,292 Input Tokens, 1,427,216 Output Tokens
+
+💵 $151.26 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 84 AI Prompts
+
+Opus                     3,625 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 02/10/2026 02:54:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
