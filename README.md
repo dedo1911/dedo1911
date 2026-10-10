@@ -25,8 +25,58 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.76%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 09/10/2026 03:30:25 UTC
+```text
+🌞 Morning                7079 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌆 Daytime                13495 commits       █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌃 Evening                9227 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+🌙 Night                  7067 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Java                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+
+🔥 Editors: 
+Claude Code              1 hr 16 mins        ██████████████████░░░░░░░   70.74 % 
+VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 27 mins (81.47%)
+
+✍️ 203 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 386,226 Input Tokens, 112,114 Output Tokens
+
+💵 $7.47 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 18 AI Prompts
+
+Opus                     204 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 10/10/2026 03:09:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
