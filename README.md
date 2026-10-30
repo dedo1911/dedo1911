@@ -21,17 +21,17 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-375%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5373 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌆 Daytime                10466 commits       ██████████░░░░░░░░░░░░░░░   38.28 % 
-🌃 Evening                6308 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌙 Night                  5195 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌞 Morning                5591 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+🌆 Daytime                10999 commits       ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌃 Evening                6431 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌙 Night                  5311 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 ```
 
 
@@ -41,43 +41,42 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 9 hrs 53 mins       █████████████████░░░░░░░░   67.29 % 
-Other                    4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 6 hrs 31 mins       ████████████████░░░░░░░░░   64.75 % 
+Other                    3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 16 mins      ███████████████████████░░   90.40 % 
-VS Code                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              9 hrs 18 mins       ███████████████████████░░   92.29 % 
+VS Code                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 56 mins (94.93%)
+⏱ AI Coding Time: 9 hrs 22 mins (92.99%)
 
-✍️ 364 lines written by AI, 296 lines written by hand (55.15% AI-written)
+✍️ 70 lines written by AI, 259 lines written by hand (21.28% AI-written)
 
-🔤 9,300,714 Input Tokens, 1,524,177 Output Tokens
+🔤 5,744,003 Input Tokens, 1,077,858 Output Tokens
 
-💵 $161.81 Estimated AI Cost This Week
+💵 $124.67 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 224 AI Prompts
+🧠 13 AI Sessions, 120 AI Prompts
 
-Opus                     332 lines           ██████████████████████░░░   89.25 % 
-Fable                    40 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Fable                    40 lines            ██████████████░░░░░░░░░░░   55.56 % 
+Opus                     32 lines            ███████████░░░░░░░░░░░░░░   44.44 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.15% of written lines came from AI
-📚 Verbose Prompter — average 1,861 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 46.01% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.28% of written lines came from AI
+📚 Verbose Prompter — average 2,127 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 78.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 03:16:51 UTC
+ Last Updated on 30/10/2026 03:22:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
