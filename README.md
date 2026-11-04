@@ -17,21 +17,17 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2044%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2027%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.38%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6471 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-🌆 Daytime                13377 commits       ██████████░░░░░░░░░░░░░░░   39.31 % 
-🌃 Evening                7946 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌙 Night                  6236 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌞 Morning                6869 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌆 Daytime                14263 commits       ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌃 Evening                8675 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+🌙 Night                  6686 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 ```
 
 
@@ -41,43 +37,43 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
-Other                    4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-JSON                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Go                       39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Markdown                 5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.00 % 
+JSON                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Bash                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 47 mins      █████████████████████████   99.87 % 
-Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              13 hrs 54 mins      █████████████████████████   99.04 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 2 mins (99.94%)
 
-✍️ 4,655 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,327 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,266,592 Input Tokens, 2,619,579 Output Tokens
+🔤 11,111,453 Input Tokens, 2,303,568 Output Tokens
 
-💵 $219.97 Estimated AI Cost This Week
+💵 $185.36 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 171 AI Prompts
+🧠 20 AI Sessions, 173 AI Prompts
 
-Opus                     4,817 lines         █████████████████████████   100.00 % 
+Opus                     5,599 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,600 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 5,966 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/11/2026 04:27:53 UTC
+ Last Updated on 04/11/2026 03:46:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
