@@ -17,17 +17,21 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C423%20hrs%2010%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.92%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6869 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-🌆 Daytime                14263 commits       ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌃 Evening                8675 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌙 Night                  6686 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌞 Morning                6340 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌆 Daytime                13736 commits       ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌃 Evening                7571 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+🌙 Night                  6044 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 ```
 
 
@@ -37,43 +41,43 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.00 % 
-JSON                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Bash                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Markdown                 4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+JSON                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Bash                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 54 mins      █████████████████████████   99.04 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              13 hrs 17 mins      █████████████████████████   99.00 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 2 mins (99.94%)
+⏱ AI Coding Time: 13 hrs 25 mins (99.94%)
 
-✍️ 5,327 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,205 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,111,453 Input Tokens, 2,303,568 Output Tokens
+🔤 10,673,531 Input Tokens, 2,207,327 Output Tokens
 
-💵 $185.36 Estimated AI Cost This Week
+💵 $179.62 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 173 AI Prompts
+🧠 18 AI Sessions, 167 AI Prompts
 
-Opus                     5,599 lines         █████████████████████████   100.00 % 
+Opus                     5,492 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,966 characters per prompt
+📚 Verbose Prompter — average 5,951 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/11/2026 03:46:57 UTC
+ Last Updated on 05/11/2026 04:10:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
