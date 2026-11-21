@@ -9,6 +9,13 @@
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/dedo1911)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://fb.com/dedo1911)
 
+<a href="https://certdirectory.io/profile/dario-emerson?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/dario-emerson.svg?style=card&theme=dark">
+    <img alt="Dario Emerson on CertDirectory" src="https://certdirectory.io/badge/dario-emerson.svg?style=card">
+  </picture>
+</a>
+
 </div>
 
 # Development Stats
