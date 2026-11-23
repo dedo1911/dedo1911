@@ -24,21 +24,21 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dedo1911&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C453%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-419%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.55%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11208 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-🌆 Daytime                27177 commits       ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                18052 commits       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-🌙 Night                  12028 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌞 Morning                9931 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+🌆 Daytime                23880 commits       ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌃 Evening                15493 commits       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌙 Night                  10624 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 ```
 
 
@@ -48,44 +48,44 @@
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-JavaScript               5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Bash                     5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-YAML                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Go                       2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Markdown                 5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+JavaScript               5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+YAML                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Go                       2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Bash                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 45 mins      █████████████████████████   99.23 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Claude Code              21 hrs 46 mins      █████████████████████████   99.06 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 56 mins (99.94%)
+⏱ AI Coding Time: 21 hrs 57 mins (99.92%)
 
-✍️ 16,408 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 15,570 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 21,230,228 Input Tokens, 5,088,975 Output Tokens
+🔤 15,720,779 Input Tokens, 3,744,604 Output Tokens
 
-💵 $455.72 Estimated AI Cost This Week
+💵 $356.69 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 264 AI Prompts
+🧠 44 AI Sessions, 263 AI Prompts
 
-Opus                     18,145 lines        █████████████████████████   100.00 % 
+Opus                     17,284 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,344 characters per prompt
+📚 Verbose Prompter — average 3,356 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/11/2026 04:08:15 UTC
+ Last Updated on 23/11/2026 04:37:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
